@@ -43,7 +43,7 @@
 <p align="center"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
-<p align="left"></p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="25" height="25" /> </p>
 
 ## My Statistics
 
@@ -53,6 +53,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarasirajarathna&show_icons=true&locale=en" alt="sarasirajarathna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarasirajarathna&" alt="sarasirajarathna" /></p>
+
+<br>
+
+Credit:[Sarasi Rajarathna](https://github.com/SarasiRajarathna)
+
+<br> 
 
 Last Edited on: 18/08/2025
 
