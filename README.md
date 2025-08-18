@@ -50,11 +50,12 @@
 ## My Statistics
 
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarasirajarathna&show_icons=true&locale=en&layout=compact" alt="sarasirajarathna" /></p>
+<p><img align="left"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=sarasirajarathna&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="sarasirajarathna" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarasirajarathna&show_icons=true&locale=en" alt="sarasirajarathna" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarasirajarathna&show_icons=true&locale=en&cache_seconds=3600" alt="sarasirajarathna" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarasirajarathna&" alt="sarasirajarathna" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarasirajarathna&&cache_seconds=3600" alt="sarasirajarathna" /></p>
 
 <br>
 
