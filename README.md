@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React.js,Boostrap, and Adobe Illustrator**
 
-- - ☁️ I've been interest in ui/ux designing. So,I'm learning **Figma**
+- ☁️ I've been interest in ui/ux designing. So,I'm learning **Figma**
 
 - 📫 How to reach me **rajarathnasarasi@gmail.com**
 <br>
