@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋, I'm Sarasi Rajarathna</h1>
 <p align="center">
   <a href="https://github.com/SarasiRajarathna">
@@ -7,7 +8,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarasirajarathna&label=Profile%20views&color=0e75b6&style=flat" alt="sarasirajarathna" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarasirajarathna" alt="sarasirajarathna" /></a> </p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=SarasiRajarathna&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</div>
+
+<br><br>
 
 ## <picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
@@ -32,6 +39,29 @@
 <a href="https://instagram.com/s_a_ra_s_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_a_ra_s_i" height="30" width="40" /></a>
 </p>
 
+<br><br>
+
+## My Statistics
+
+<br>
+
+<p align="center">
+  
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=SarasiRajarathna&theme=dark&show_icons=true&count_private=true" />
+        <br><br>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SarasiRajarathna&theme=dark&hide_border=false" />
+      </td> <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarasiRajarathna&theme=dark&hide_border=false&langs_count=10&layout=compact"/>
+        </td>
+    </tr>
+  </table>
+</p>
+
+<br><br>
+
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
@@ -52,22 +82,11 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
 <p align="center"> <img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="25" height="25" /> </p>
 
-## My Statistics
-
-<br/>
-<p><img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=sarasirajarathna&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="sarasirajarathna" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarasirajarathna&show_icons=true&locale=en&cache_seconds=3600" alt="sarasirajarathna" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarasirajarathna&&cache_seconds=3600" alt="sarasirajarathna" /></p>
-
 <br>
 
+----------------------------------------------------------------------
 Credit: [Sarasi Rajarathna](https://github.com/SarasiRajarathna)
 
-<br> 
+Last Edited on: 19/08/2025
 
-Last Edited on: 18/08/2025
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
