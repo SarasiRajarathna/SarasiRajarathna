@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sarasi Rajarathna</h1>
-<h3 align="center">A passionate frontend developer and UI/UX designer from Sri Lanka</h3>
+<p align="center">
+  <a href="https://github.com/SarasiRajarathna">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=IT+Undergraduate;Front-End+Developer;UI/UX+Designer;From+Sri+Lanka">
+  </a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarasirajarathna&label=Profile%20views&color=0e75b6&style=flat" alt="sarasirajarathna" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarasirajarathna" alt="sarasirajarathna" /></a> </p>
 
 ## <picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
 
-<br><br>
+<br>
 
 - :school: I am an `Undergratuate` at [Faculty of Computing](https://www.sab.ac.lk/computing/) at [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/).
 - :student: I’m currently learning `Information System`.
