@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarasirajarathna&label=Profile%20views&color=0e75b6&style=flat" alt="sarasirajarathna" /> </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarasirajarathna" alt="sarasirajarathna" /></a> </p>
+
 ## <picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"></picture> About me
 
 <br><br>
@@ -56,7 +58,7 @@
 
 <br>
 
-Credit:[Sarasi Rajarathna](https://github.com/SarasiRajarathna)
+Credit: [Sarasi Rajarathna](https://github.com/SarasiRajarathna)
 
 <br> 
 
