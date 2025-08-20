@@ -42,6 +42,27 @@
 
 <br><br>
 
+## My Repositories 
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/SarasiRajarathna/calculatorhub-FE">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SarasiRajarathna&repo=calculatorhub-FE&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/SarasiRajarathna/Vita-Derma">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SarasiRajarathna&repo=Vita-Derma&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/SarasiRajarathna/Simple-Calculator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SarasiRajarathna&repo=Simple-Calculator&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/SarasiRajarathna/SarasiRajarathna">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SarasiRajarathna&repo=SarasiRajarathna&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+
+<br>
+
 ## My Statistics
 
 <br>
@@ -88,6 +109,6 @@
 ----------------------------------------------------------------------
 Credit: [Sarasi Rajarathna](https://github.com/SarasiRajarathna)
 
-Last Edited on: 19/08/2025
+Last Edited on: 20/08/2025
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
