@@ -58,6 +58,9 @@
     	<a href="https://github.com/SarasiRajarathna/SarasiRajarathna">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SarasiRajarathna&repo=SarasiRajarathna&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+	    <a href="https://github.com/SarasiRajarathna/Coffee-Bliss">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SarasiRajarathna&repo=Coffee-Bliss&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
   </p>
 </div>
 
