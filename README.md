@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/SarasiRajarathna">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=IT+Undergraduate;Front-End+Developer;UI/UX+Designer;From+Sri+Lanka">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=IT+Undergraduate;Passionate+Front-End+Developer;Passionate+UI/UX+Designer;From+Sri+Lanka">
   </a>
 </p>
 
@@ -61,6 +61,9 @@
 	    <a href="https://github.com/SarasiRajarathna/Coffee-Bliss">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SarasiRajarathna&repo=Coffee-Bliss&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+	    <a href="https://github.com/SarasiRajarathna/My-Portfolio">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SarasiRajarathna&repo=My-Portfolio&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
   </p>
 </div>
 
@@ -112,6 +115,6 @@
 ----------------------------------------------------------------------
 Credit: [Sarasi Rajarathna](https://github.com/SarasiRajarathna)
 
-Last Edited on: 20/08/2025
+Last Edited on: 05/09/2025
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
